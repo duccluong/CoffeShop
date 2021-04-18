@@ -1,0 +1,26 @@
+G:\Provisional\Đồ án công ty\Đồ án\quanlicafe2\bin\Debug\quanlicafe2.exe.config
+G:\Provisional\Đồ án công ty\Đồ án\quanlicafe2\bin\Debug\quanlicafe2.exe
+G:\Provisional\Đồ án công ty\Đồ án\quanlicafe2\bin\Debug\quanlicafe2.pdb
+G:\Provisional\Đồ án công ty\Đồ án\quanlicafe2\obj\Debug\quanlicafe2.csprojAssemblyReference.cache
+G:\Provisional\Đồ án công ty\Đồ án\quanlicafe2\obj\Debug\quanlicafe2.fAccountProfie.resources
+G:\Provisional\Đồ án công ty\Đồ án\quanlicafe2\obj\Debug\quanlicafe2.fAdmin.resources
+G:\Provisional\Đồ án công ty\Đồ án\quanlicafe2\obj\Debug\quanlicafe2.flogin.resources
+G:\Provisional\Đồ án công ty\Đồ án\quanlicafe2\obj\Debug\quanlicafe2.fTableManager.resources
+G:\Provisional\Đồ án công ty\Đồ án\quanlicafe2\obj\Debug\quanlicafe2.Properties.Resources.resources
+G:\Provisional\Đồ án công ty\Đồ án\quanlicafe2\obj\Debug\quanlicafe2.csproj.GenerateResource.cache
+G:\Provisional\Đồ án công ty\Đồ án\quanlicafe2\obj\Debug\quanlicafe2.csproj.CoreCompileInputs.cache
+G:\Provisional\Đồ án công ty\Đồ án\quanlicafe2\obj\Debug\quanlicafe2.exe
+G:\Provisional\Đồ án công ty\Đồ án\quanlicafe2\obj\Debug\quanlicafe2.pdb
+G:\Provisional\CoffeShopManagerment\CoffeShopManagerment\quanlicafe2\bin\Debug\quanlicafe2.exe.config
+G:\Provisional\CoffeShopManagerment\CoffeShopManagerment\quanlicafe2\bin\Debug\quanlicafe2.exe
+G:\Provisional\CoffeShopManagerment\CoffeShopManagerment\quanlicafe2\bin\Debug\quanlicafe2.pdb
+G:\Provisional\CoffeShopManagerment\CoffeShopManagerment\quanlicafe2\obj\Debug\quanlicafe2.csprojAssemblyReference.cache
+G:\Provisional\CoffeShopManagerment\CoffeShopManagerment\quanlicafe2\obj\Debug\quanlicafe2.fAccountProfie.resources
+G:\Provisional\CoffeShopManagerment\CoffeShopManagerment\quanlicafe2\obj\Debug\quanlicafe2.fAdmin.resources
+G:\Provisional\CoffeShopManagerment\CoffeShopManagerment\quanlicafe2\obj\Debug\quanlicafe2.flogin.resources
+G:\Provisional\CoffeShopManagerment\CoffeShopManagerment\quanlicafe2\obj\Debug\quanlicafe2.fTableManager.resources
+G:\Provisional\CoffeShopManagerment\CoffeShopManagerment\quanlicafe2\obj\Debug\quanlicafe2.Properties.Resources.resources
+G:\Provisional\CoffeShopManagerment\CoffeShopManagerment\quanlicafe2\obj\Debug\quanlicafe2.csproj.GenerateResource.cache
+G:\Provisional\CoffeShopManagerment\CoffeShopManagerment\quanlicafe2\obj\Debug\quanlicafe2.csproj.CoreCompileInputs.cache
+G:\Provisional\CoffeShopManagerment\CoffeShopManagerment\quanlicafe2\obj\Debug\quanlicafe2.exe
+G:\Provisional\CoffeShopManagerment\CoffeShopManagerment\quanlicafe2\obj\Debug\quanlicafe2.pdb

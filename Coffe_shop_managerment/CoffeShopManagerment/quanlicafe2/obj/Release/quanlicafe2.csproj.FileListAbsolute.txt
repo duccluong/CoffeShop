@@ -1,0 +1,13 @@
+G:\Provisional\CoffeShopManagerment\CoffeShopManagerment\quanlicafe2\bin\Release\quanlicafe2.exe.config
+G:\Provisional\CoffeShopManagerment\CoffeShopManagerment\quanlicafe2\bin\Release\quanlicafe2.exe
+G:\Provisional\CoffeShopManagerment\CoffeShopManagerment\quanlicafe2\bin\Release\quanlicafe2.pdb
+G:\Provisional\CoffeShopManagerment\CoffeShopManagerment\quanlicafe2\obj\Release\quanlicafe2.csprojAssemblyReference.cache
+G:\Provisional\CoffeShopManagerment\CoffeShopManagerment\quanlicafe2\obj\Release\quanlicafe2.fAccountProfie.resources
+G:\Provisional\CoffeShopManagerment\CoffeShopManagerment\quanlicafe2\obj\Release\quanlicafe2.fAdmin.resources
+G:\Provisional\CoffeShopManagerment\CoffeShopManagerment\quanlicafe2\obj\Release\quanlicafe2.flogin.resources
+G:\Provisional\CoffeShopManagerment\CoffeShopManagerment\quanlicafe2\obj\Release\quanlicafe2.fTableManager.resources
+G:\Provisional\CoffeShopManagerment\CoffeShopManagerment\quanlicafe2\obj\Release\quanlicafe2.Properties.Resources.resources
+G:\Provisional\CoffeShopManagerment\CoffeShopManagerment\quanlicafe2\obj\Release\quanlicafe2.csproj.GenerateResource.cache
+G:\Provisional\CoffeShopManagerment\CoffeShopManagerment\quanlicafe2\obj\Release\quanlicafe2.csproj.CoreCompileInputs.cache
+G:\Provisional\CoffeShopManagerment\CoffeShopManagerment\quanlicafe2\obj\Release\quanlicafe2.exe
+G:\Provisional\CoffeShopManagerment\CoffeShopManagerment\quanlicafe2\obj\Release\quanlicafe2.pdb
